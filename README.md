@@ -1,4 +1,5 @@
 # Inventory and Warehouse Management (NestJS MVP)
+nice 
 
 Hybrid architecture:
 - `api-gateway` exposes REST API
